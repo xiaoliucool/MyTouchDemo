@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyTouchDemo</string>
+    <string name="doubleClick">双击一下试试</string>
+</resources>
