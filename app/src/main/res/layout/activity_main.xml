@@ -10,4 +10,19 @@
         android:layout_height="wrap_content"
         android:text="@string/doubleClick"
         android:background="@color/colorAccent"/>
+
+    <TextView
+        android:id="@+id/tvContent"
+        android:text="测试文本"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnBrowsePic"
+        android:layout_alignParentTop="true"
+        android:text="@string/browse_pic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 </RelativeLayout>

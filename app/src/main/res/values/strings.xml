@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">MyTouchDemo</string>
     <string name="doubleClick">双击一下试试</string>
+    <string name="content">%1$s条新消息</string>
+    <string name="browse_pic">浏览图片</string>
 </resources>
