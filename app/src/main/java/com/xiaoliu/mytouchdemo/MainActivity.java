@@ -36,6 +36,9 @@ public class MainActivity extends AppCompatActivity implements MyDoubleClickCall
     public void fun() {
     }
 
+    public void funb() {
+    }
+
     private void initView() {
         mButton = (Button) findViewById(R.id.btDoubleClick);
         mButton.setOnTouchListener(mMultiClickListener);
