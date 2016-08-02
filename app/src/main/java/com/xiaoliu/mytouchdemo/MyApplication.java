@@ -72,4 +72,5 @@ public class MyApplication extends Application {
     public Handler getMainLoopHandler() {
         return this.handler;
     }
+    public void fun(){}
 }
