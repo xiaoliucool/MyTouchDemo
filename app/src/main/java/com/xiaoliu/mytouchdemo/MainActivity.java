@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity implements MyDoubleClickCall
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         initView();
     }
 
