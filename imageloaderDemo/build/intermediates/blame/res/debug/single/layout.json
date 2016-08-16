@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gridview.xml",
+        "source": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\src\\main\\res\\layout\\activity_gridview.xml"
+    },
+    {
+        "merged": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_grid.xml",
+        "source": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\src\\main\\res\\layout\\item_grid.xml"
+    },
+    {
+        "merged": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pager.xml",
+        "source": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\src\\main\\res\\layout\\activity_pager.xml"
+    },
+    {
+        "merged": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gallery.xml",
+        "source": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\src\\main\\res\\layout\\activity_gallery.xml"
+    }
+]

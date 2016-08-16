@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_stub.png",
+        "source": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\src\\main\\res\\drawable-ldpi\\ic_stub.png"
+    },
+    {
+        "merged": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_empty.png",
+        "source": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\src\\main\\res\\drawable-ldpi\\ic_empty.png"
+    },
+    {
+        "merged": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_error.png",
+        "source": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\src\\main\\res\\drawable-ldpi\\ic_error.png"
+    },
+    {
+        "merged": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "D:\\myProject\\MyTouchDemo\\imageloaderDemo\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]
